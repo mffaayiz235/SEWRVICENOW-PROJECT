@@ -1,2 +1,2 @@
-# SEWRVICENOW-PROJECT
+# SERVICENOW-PROJECT
 Laptop Request Catalog Item
